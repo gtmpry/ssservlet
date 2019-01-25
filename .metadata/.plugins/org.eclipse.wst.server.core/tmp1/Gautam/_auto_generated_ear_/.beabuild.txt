@@ -1,0 +1,3 @@
+F\:/ssservlet/weblogicsss/WebContent = weblogicsss.war
+F\:/ssservlet/.metadata/.plugins/org.eclipse.core.resources/weblogicsss/build/weboutput = weblogicsss.war
+F\:/ssservlet/weblogicsss/build/classes = weblogicsss.war/WEB-INF/classes

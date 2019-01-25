@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;weblogic.gautam.com&apos; to &apos;priya&apos;&#x0D;&#x0A;- Original project: &apos;Gautam&apos;&#x0D;&#x0A;- Original element: &apos;Gautam/src/weblogic.gautam.com&apos;&#x0D;&#x0A;- Renamed element: &apos;Gautam/src/priya&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;weblogic.gautam.com&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;weblogic.gautam.com" name="priya" qualified="false" references="true" stamp="1548088698297" textual="false" version="1.0"/>
+</session>
